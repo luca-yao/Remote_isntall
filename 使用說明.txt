@@ -1,0 +1,11 @@
+1. 修改 Client_list.txt
+
+※檔案須放置D槽根目錄底下
+
+2.點擊打開 Remote_install.ps1，修改Username & Password
+
+2.開啟PowerShell執行，或者對 Remote_install.ps1 按右鍵執行 > 用Powershell執行
+
+3.輸入要進行遠端操作的檔名 ( 含副檔名 )
+
+4.失敗的清單將會寫在Error.txt中
